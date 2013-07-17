@@ -1,4 +1,4 @@
-box: bvdberg/meteor
+box: mies/meteor
 build:
   steps:
     - script:
